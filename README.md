@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-Project developed during Internship at The Sparks Foundation
+Project developed during Internship at The Sparks Foundation (#task1)
 
 It is a Basic Banking System for making transactions between users. It can transfer Money between multiple accounts, view all Customer's data and view all the past transactions happened between different accounts.
 
